@@ -1,0 +1,7 @@
+{
+  "name": "Gestor Pro Mobile Dashboard",
+  "description": "A clean and modern mobile-first business management dashboard based on the provided UI design, featuring order tracking, financial management, and smart shortcuts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
